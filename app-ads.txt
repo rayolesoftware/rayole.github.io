@@ -2,7 +2,7 @@
 applovin.com, 0b4b1f79bf1d4c8d67bdaa952af20131, DIRECT
 
 #Facebook
-facebook.com, 1609528462743818, DIRECT, c3e20eee3f780d68
+facebook.com, 240464300814253, DIRECT, c3e20eee3f780d68
 
 #Inmobi
 inmobi.com, 9e0435476f6b4eca81b027c7a9c575fc, DIRECT, 83e75a7ae333ca9d
