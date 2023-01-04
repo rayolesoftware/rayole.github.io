@@ -2,8 +2,16 @@
 	<url>
 		<loc>https://rayole.com/index.html</loc>
 	</url>
-<<<<<<< HEAD
+	<url>
+		<loc>https://rayole.com/about.html</loc>
+	</url>
+	<url>
+		<loc>https://rayole.com/contact.html</loc>
+	</url>
+	<url>
+		<loc>https://rayole.com/terms.html</loc>
+	</url>
+	<url>
+		<loc>https://rayole.com/privacy.html</loc>
+	</url>
 </urlset>
-=======
-</urlset>
->>>>>>> 279db290b7e7564dade74530c3465d155b825e58
