@@ -1203,9 +1203,7 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 
 #Ironsource
-#ironsrc.com, [yourironSourcePublisherAccountID], Direct
-#Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
-
+ironsrc.com, 391574, Direct
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
