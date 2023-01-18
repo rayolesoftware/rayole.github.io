@@ -4,6 +4,9 @@ applovin.com, 0b4b1f79bf1d4c8d67bdaa952af20131, DIRECT
 #Facebook
 facebook.com, 240464300814253, DIRECT, c3e20eee3f780d68
 
+#Adcolony
+adcolony.com, c6bae2f8260c2a5585725cfe2e85d0ab, DIRECT, 1ad675c9de6b5176
+
 #Inmobi
 inmobi.com, 9e0435476f6b4eca81b027c7a9c575fc, DIRECT, 83e75a7ae333ca9d
 engagebdr.com, 16, RESELLER
