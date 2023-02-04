@@ -3,6 +3,7 @@ applovin.com, 0b4b1f79bf1d4c8d67bdaa952af20131, DIRECT
 
 #Facebook
 facebook.com, 240464300814253, DIRECT, c3e20eee3f780d68
+facebook.com, 505195071739074, DIRECT, c3e20eee3f780d68
 
 #Adcolony
 adcolony.com, c6bae2f8260c2a5585725cfe2e85d0ab, DIRECT, 1ad675c9de6b5176
