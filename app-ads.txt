@@ -8,6 +8,24 @@ facebook.com, 505195071739074, DIRECT, c3e20eee3f780d68
 #Adcolony
 adcolony.com, c6bae2f8260c2a5585725cfe2e85d0ab, DIRECT, 1ad675c9de6b5176
 
+#Edge 226
+dauup.com, 40671, DIRECT
+peak226.com, 22675, DIRECT
+smartadserver.com, 3172, DIRECT, 060d053dcf45cbf3
+orangeclickmedia.com, C-1103, DIRECT
+appnexus.com, 14416, DIRECT
+appnexus.com, 14808, DIRECT
+vidoomy.com, 2704434, RESELLER
+adform.com, 2742, RESELLER
+instreamatic.com, 78, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
+adtonos.com, PUB27470755, RESELLER
+tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
+adswizz.com, adtonos, RESELLER
+xandr.com, 14344, RESELLER
+Audiate.me, 86689867, RESELLER
+targetspot.com, 227, RESELLER, feb28ed826dcf532
+
 #Inmobi
 inmobi.com, 9e0435476f6b4eca81b027c7a9c575fc, DIRECT, 83e75a7ae333ca9d
 eskimi.com, 2020000030, RESELLER
