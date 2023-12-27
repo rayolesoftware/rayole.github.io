@@ -8,6 +8,11 @@ facebook.com, 505195071739074, DIRECT, c3e20eee3f780d68
 #Adcolony
 adcolony.com, c6bae2f8260c2a5585725cfe2e85d0ab, DIRECT, 1ad675c9de6b5176
 
+#Bold Win
+bold-win.com, 2274, DIRECT, 71746737d0bab951
+my-cast.tv, 988294, DIRECT
+smartivi.ai, 358649, DIRECT
+
 #Edge 226
 dauup.com, 40671, DIRECT
 peak226.com, 22675, DIRECT
