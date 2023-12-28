@@ -8,6 +8,14 @@ facebook.com, 505195071739074, DIRECT, c3e20eee3f780d68
 #Adcolony
 adcolony.com, c6bae2f8260c2a5585725cfe2e85d0ab, DIRECT, 1ad675c9de6b5176
 
+#Omnify TV
+omnifytv.com, Jv1kdcLDiBSW43P1715, DIRECT
+inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 5161057819193970664, RESELLER
+lijit.com, 481635, RESELLER, fafdf38b16bf6b2b #SOVRN
+lunamedia.io, 3kC0i44Rtqq9SQkQ2aS, DIRECT, 524ecb396915caaf
+myfeature.tv, 79mlR5cDj1G7zkCgTtl, DIRECT
+
 #Bold Win
 bold-win.com, 2274, DIRECT, 71746737d0bab951
 my-cast.tv, 988294, DIRECT
